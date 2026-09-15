@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/akxhit-kakkoth/leetcode/tree/master/1768-merge-strings-alternately) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/akxhit-kakkoth/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
