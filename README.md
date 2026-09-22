@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akxhit-kakkoth/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/akxhit-kakkoth/leetcode/tree/master/0015-3sum) |
 | [1768-merge-strings-alternately](https://github.com/akxhit-kakkoth/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -43,8 +44,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akxhit-kakkoth/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/akxhit-kakkoth/leetcode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akxhit-kakkoth/leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/akxhit-kakkoth/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
